@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/YasirY-ux/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/YasirY-ux/Leet-Code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/YasirY-ux/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0241-different-ways-to-add-parentheses](https://github.com/YasirY-ux/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
@@ -51,10 +52,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/YasirY-ux/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/YasirY-ux/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/YasirY-ux/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/YasirY-ux/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/YasirY-ux/Leet-Code/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
