@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/YasirY-ux/Leet-Code/tree/master/0729-my-calendar-i) |
 | [1694-make-sum-divisible-by-p](https://github.com/YasirY-ux/Leet-Code/tree/master/1694-make-sum-divisible-by-p) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/YasirY-ux/Leet-Code/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/YasirY-ux/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/YasirY-ux/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YasirY-ux/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1694-make-sum-divisible-by-p](https://github.com/YasirY-ux/Leet-Code/tree/master/1694-make-sum-divisible-by-p) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/YasirY-ux/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/YasirY-ux/Leet-Code/tree/master/0179-largest-number) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/YasirY-ux/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YasirY-ux/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/YasirY-ux/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Trie
 |  |
 | ------- |
