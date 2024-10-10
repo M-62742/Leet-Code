@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/YasirY-ux/Leet-Code/tree/master/0035-search-insert-position) |
 | [0179-largest-number](https://github.com/YasirY-ux/Leet-Code/tree/master/0179-largest-number) |
 | [0729-my-calendar-i](https://github.com/YasirY-ux/Leet-Code/tree/master/0729-my-calendar-i) |
+| [1002-maximum-width-ramp](https://github.com/YasirY-ux/Leet-Code/tree/master/1002-maximum-width-ramp) |
 | [1694-make-sum-divisible-by-p](https://github.com/YasirY-ux/Leet-Code/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/YasirY-ux/Leet-Code/tree/master/1923-sentence-similarity-iii) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/YasirY-ux/Leet-Code/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -134,4 +135,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/YasirY-ux/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/YasirY-ux/Leet-Code/tree/master/1002-maximum-width-ramp) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/YasirY-ux/Leet-Code/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
