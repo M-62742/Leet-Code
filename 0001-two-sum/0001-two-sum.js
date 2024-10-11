@@ -1,14 +1,15 @@
 function twoSum(nums, target) {
-    const numToIndex = new Map();  // Hash map to store number and its index
+    let map = new Map();  // To store the value and its index
+    
     for (let i = 0; i < nums.length; i++) {
-        const num = nums[i];
-        const complement = target - num;  // Find the complement of the current number
-        if (numToIndex.has(complement)) {
-            // If complement is found in hash map, return the indices
-            return [numToIndex.get(complement), i];
+        let complement = target - nums[i];  // Find the complement that adds up to the target
+        
+        if (map.has(complement)) {
+            return [map.get(complement), i];  // If complement exists, return its index and current index
         }
-        // Store the index of the current number
-        numToIndex.set(num, i);
+        
+        map.set(nums[i], i);  // Store the current number and its index in the map
     }
-    return [];  // If no solution is found (though the problem guarantees one solution)
+    
+    return [];  // If no solution is found (this case won't happen due to problem constraints)
 }
