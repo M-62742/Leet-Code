@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/YasirY-ux/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/YasirY-ux/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YasirY-ux/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/YasirY-ux/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1694-make-sum-divisible-by-p](https://github.com/YasirY-ux/Leet-Code/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/YasirY-ux/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YasirY-ux/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0179-largest-number](https://github.com/YasirY-ux/Leet-Code/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/YasirY-ux/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/YasirY-ux/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/YasirY-ux/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1923-sentence-similarity-iii](https://github.com/YasirY-ux/Leet-Code/tree/master/1923-sentence-similarity-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/YasirY-ux/Leet-Code/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/YasirY-ux/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/YasirY-ux/Leet-Code/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Design
 |  |
