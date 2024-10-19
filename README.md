@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/YasirY-ux/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/YasirY-ux/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/YasirY-ux/Leet-Code/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/YasirY-ux/Leet-Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/YasirY-ux/Leet-Code/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/YasirY-ux/Leet-Code/tree/master/0035-search-insert-position) |
 | [0179-largest-number](https://github.com/YasirY-ux/Leet-Code/tree/master/0179-largest-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/YasirY-ux/Leet-Code/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/YasirY-ux/Leet-Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/YasirY-ux/Leet-Code/tree/master/0018-4sum) |
 | [0179-largest-number](https://github.com/YasirY-ux/Leet-Code/tree/master/0179-largest-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/YasirY-ux/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/YasirY-ux/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/YasirY-ux/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/YasirY-ux/Leet-Code/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/YasirY-ux/Leet-Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/YasirY-ux/Leet-Code/tree/master/0018-4sum) |
 | [1923-sentence-similarity-iii](https://github.com/YasirY-ux/Leet-Code/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/YasirY-ux/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
