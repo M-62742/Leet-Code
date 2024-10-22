@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/YasirY-ux/Leet-Code/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/YasirY-ux/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/YasirY-ux/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 ## Sliding Window
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/YasirY-ux/Leet-Code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/YasirY-ux/Leet-Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/YasirY-ux/Leet-Code/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/YasirY-ux/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1923-sentence-similarity-iii](https://github.com/YasirY-ux/Leet-Code/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/YasirY-ux/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Trie
