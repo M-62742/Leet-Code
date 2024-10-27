@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/YasirY-ux/Leet-Code/tree/master/0179-largest-number) |
 | [0729-my-calendar-i](https://github.com/YasirY-ux/Leet-Code/tree/master/0729-my-calendar-i) |
 | [1002-maximum-width-ramp](https://github.com/YasirY-ux/Leet-Code/tree/master/1002-maximum-width-ramp) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/YasirY-ux/Leet-Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1694-make-sum-divisible-by-p](https://github.com/YasirY-ux/Leet-Code/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/YasirY-ux/Leet-Code/tree/master/1923-sentence-similarity-iii) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/YasirY-ux/Leet-Code/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/YasirY-ux/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/YasirY-ux/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/YasirY-ux/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/YasirY-ux/Leet-Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Recursion
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/YasirY-ux/Leet-Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/YasirY-ux/Leet-Code/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Stack
 |  |
