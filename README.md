@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-largest-local-values-in-a-matrix](https://github.com/YasirY-ux/Leet-Code/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/YasirY-ux/Leet-Code/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/YasirY-ux/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/YasirY-ux/Leet-Code/tree/master/2586-longest-square-streak-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/YasirY-ux/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1694-make-sum-divisible-by-p](https://github.com/YasirY-ux/Leet-Code/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/YasirY-ux/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/YasirY-ux/Leet-Code/tree/master/2586-longest-square-streak-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/YasirY-ux/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/YasirY-ux/Leet-Code/tree/master/0035-search-insert-position) |
 | [0729-my-calendar-i](https://github.com/YasirY-ux/Leet-Code/tree/master/0729-my-calendar-i) |
+| [2586-longest-square-streak-in-an-array](https://github.com/YasirY-ux/Leet-Code/tree/master/2586-longest-square-streak-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/YasirY-ux/Leet-Code/tree/master/0018-4sum) |
 | [0179-largest-number](https://github.com/YasirY-ux/Leet-Code/tree/master/0179-largest-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/YasirY-ux/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/YasirY-ux/Leet-Code/tree/master/2586-longest-square-streak-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/YasirY-ux/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/YasirY-ux/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/YasirY-ux/Leet-Code/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2586-longest-square-streak-in-an-array](https://github.com/YasirY-ux/Leet-Code/tree/master/2586-longest-square-streak-in-an-array) |
 ## Recursion
 |  |
 | ------- |
