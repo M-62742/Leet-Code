@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/YasirY-ux/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/YasirY-ux/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/YasirY-ux/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/YasirY-ux/Leet-Code/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1923-sentence-similarity-iii](https://github.com/YasirY-ux/Leet-Code/tree/master/1923-sentence-similarity-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/YasirY-ux/Leet-Code/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Binary Search
