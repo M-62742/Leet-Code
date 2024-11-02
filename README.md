@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/YasirY-ux/Leet-Code/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1923-sentence-similarity-iii](https://github.com/YasirY-ux/Leet-Code/tree/master/1923-sentence-similarity-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/YasirY-ux/Leet-Code/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2580-circular-sentence](https://github.com/YasirY-ux/Leet-Code/tree/master/2580-circular-sentence) |
 ## Binary Search
 |  |
 | ------- |
