@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/YasirY-ux/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0179-largest-number](https://github.com/YasirY-ux/Leet-Code/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/YasirY-ux/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
+| [0812-rotate-string](https://github.com/YasirY-ux/Leet-Code/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/YasirY-ux/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/YasirY-ux/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/YasirY-ux/Leet-Code/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/YasirY-ux/Leet-Code/tree/master/1002-maximum-width-ramp) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/YasirY-ux/Leet-Code/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
