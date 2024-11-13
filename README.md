@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/YasirY-ux/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/YasirY-ux/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YasirY-ux/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0202-happy-number](https://github.com/YasirY-ux/Leet-Code/tree/master/0202-happy-number) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/YasirY-ux/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1694-make-sum-divisible-by-p](https://github.com/YasirY-ux/Leet-Code/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/YasirY-ux/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/YasirY-ux/Leet-Code/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/YasirY-ux/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/YasirY-ux/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/YasirY-ux/Leet-Code/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/YasirY-ux/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 ## String
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YasirY-ux/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YasirY-ux/Leet-Code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YasirY-ux/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/YasirY-ux/Leet-Code/tree/master/0202-happy-number) |
 | [1923-sentence-similarity-iii](https://github.com/YasirY-ux/Leet-Code/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/YasirY-ux/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Trie
